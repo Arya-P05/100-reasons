@@ -21,7 +21,7 @@ export const reasons = [
   "I love how you melt into me when we sit on the couch together.",
   "I love your sleepy voice when we wake up.",
   "I love how dramatic you get over tiny inconveniences.",
-  'I love that you send me reels and say "us or you or me"',
+  'I love that you send me reels and say "us" or "you" or "me"',
   "I love how you get protective over me.",
   "I love that you'll argue your point even if you're 5% unsure.",
   "I love how you look in my oversized hoodies.",
