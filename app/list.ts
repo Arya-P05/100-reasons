@@ -31,7 +31,7 @@ export const reasons = [
   'I love the way you say "come here."',
   "I love how your eyes soften when you're tired.",
   "I love that you hype me up even when I don't believe in myself.",
-  "I love your stubborn streak.",
+  "I love your stubbornness.",
   "I love how you walk slightly faster when you're excited.",
   "I love that you care deeply, even when it costs you energy.",
   "I love how safe you make me feel.",
