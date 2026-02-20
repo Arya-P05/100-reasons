@@ -12,7 +12,7 @@ export const reasons = [
   "I love that you randomly go quiet when you're thinking deeply about.",
   "I love how you get fake mad when I tease you but you secretly like it.",
   "I love the way you hold my bicep.",
-  "I love that you remember small details about my day that I don't even remember.",
+  "I love that you remember small details about my day that I don't remember.",
   "I love how you look at me when you're proud of me.",
   "I love the specific smile you have when you're trying not to smile.",
   "I love how you tuck your hair behind your ear when you're focused.",
