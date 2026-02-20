@@ -9,7 +9,7 @@ export const reasons = [
   "I love that you are addicted to variyari.",
   "I love that you call me smol.",
   "I love how you always steal the blanket.",
-  "I love that you randomly go quiet when you're thinking deeply about.",
+  "I love that you randomly go quiet when you're thinking deeply.",
   "I love how you get fake mad when I tease you but you secretly like it.",
   "I love the way you hold my bicep.",
   "I love that you remember small details about my day that I don't remember.",
